@@ -1,3 +1,3 @@
-## Algorithms
+## Algorithms and Data Structures
 
-Algorithms practice code in Java.
+Algorithms and Data Structures practice code in Java.
