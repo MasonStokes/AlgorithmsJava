@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f78c817d-b598-4a6a-8d81-519c18f989aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ListChallenges/Challenge2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ListChallenges/Challenge2/src/com/company/IntegerLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ListChallenges/Challenge2/src/com/company/IntegerNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/src/com/company/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Queues/src/com/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Stacks/ArrayStack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Stacks/ArrayStack/src/com/company/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Stacks/ArrayStack/src/com/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Stacks/LinkedListStack/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Stacks/LinkedListStack/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Stacks/LinkedListStack/src/com/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Stacks/LinkedListStack/src/com/company/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../StacksChallenges/Challenge1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../StacksChallenges/Challenge1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/com/company/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/com/company/ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/out/production/Queues/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/out/production/Queues/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/src/com/company/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/src/com/company/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Queues/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Queues/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +29,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/ArrayQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            <state relative-caret-position="840">
+              <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#1013#1014#0" expanded="true" />
+                <element signature="e#1048#1049#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,10 +67,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ArrayQueue.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="19" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
@@ -117,7 +110,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546236924639" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546279864797" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -198,6 +191,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="57" column="5" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
